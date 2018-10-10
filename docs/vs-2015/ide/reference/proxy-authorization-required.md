@@ -51,7 +51,7 @@ This error generally occurs when users are connected to Visual Studio Online thr
   
         ```xml  
         <defaultProxy enabled="true" useDefaultCredentials="true">  
-            <proxy bypassonlocal="True" proxyaddress=" HYPERLINK "http://<yourproxy:port#" http://<yourproxy:port#>"/>  
+            <proxy bypassonlocal="True" proxyaddress="http://<yourproxy:port#" />  
         </defaultProxy>  
   
         ```  
